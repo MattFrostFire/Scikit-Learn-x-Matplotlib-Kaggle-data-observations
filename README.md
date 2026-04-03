@@ -39,3 +39,6 @@ The employment_duration cleaning method uses a hard limit (60 years) to filter o
 
 Generative AI Disclosure
 This project was developed with the assistance of a large language model. The chat logs documenting the design process and troubleshooting steps are included in this repository as part of the submission requirements.
+
+
+Created using AI, chat link: https://gemini.google.com/share/97a4b0219b73
